@@ -1,0 +1,5 @@
+{
+  "name": "Dr PJ Erasmus Dental Practice",
+  "description": "Professional dental care in Vanderbijlpark, South Africa. Compassionate, high-quality dentistry focused on patient comfort and long-term oral health.",
+  "requestFramePermissions": ["geolocation"]
+}
